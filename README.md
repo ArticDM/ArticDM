@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&duration=5000&color=F7F5F4&center=true&vCenter=true&height=90&lines=Hi+%F0%9F%91%8B!+;I%27m+Francisco+Delgado!;Welcome+to+my+GitHub">
+</p>
+
 <h1>About me</h1>
 
-- 👋 Hi, I’m Francisco Delgado
 - 👀 I’m interested in Software development, Videogame Design, Operating Systems
 - 🌱 I’m currently learning Unity, Blender
 - 📫 You can contact me at francis.deldev@gmail.com
