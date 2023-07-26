@@ -1,16 +1,17 @@
+<h1>About me</h1>
+
+- 👋 Hi, I’m Francisco Delgado
+- 👀 I’m interested in Software development, Videogame Design, Operating Systems
+- 🌱 I’m currently learning Unity, Blender
+- 📫 You can contact me at francis.deldev@gmail.com
+
 ![](https://komarev.com/ghpvc/?username=ArticDM&color=00C3A0)  
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ArticDM?label=Followers&style=social">    
   <img src="https://img.shields.io/github/stars/ArticDM?label=Stars" alt="Total Stars">
 
 
-<h1>About me</h1>
-
 ```golang
 
-- 👋 Hi, I’m Francisco Delgado
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Unity
-- 📫 You can contact me at francis.deldev@gmail.com
 
 ```
 
